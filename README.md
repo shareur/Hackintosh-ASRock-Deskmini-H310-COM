@@ -51,17 +51,21 @@ MacOS 10.15.0 Catalina
 
 ### [leogitpro](https://github.com/leogitpro)/**[Hackintosh-DeskMini310](https://github.com/leogitpro/Hackintosh-DeskMini310)**
 
-CLOVER目录下基本都用的这位老哥的，可以按照这位老哥的指导去驱动BCM94352Z
+特别感谢这位老哥，CLOVER目录下基本都用的这位老哥的，可以按照这位老哥的指导去驱动BCM94352Z
 
-在我的设备上发现usb2.0可以识别，usb3.0异常就用了clover configuration软件自带的下载更新了USBinjectall.kext
+为了适配蓝牙，激活主板上的usb接针，用clover configuration软件自带的下载了USBinjectall.kext，
 
-### [[黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
+同时因为usb3.0的问题也做了一些调整
 
-感谢黑果小兵的安装镜像及说明，排除硬件问题后，流畅安装无压力
+### [【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
+
+特别感谢黑果小兵的安装镜像及说明，排除硬件问题后，流畅安装无压力
 
 APPLE，BOOT目录下文件均是黑果小兵的
 
+### [解决安装黑苹果macOS Catalina 10.15 Beta1 USB3.0或USB3.1无法使用](https://osx.cx/fix-hackintosh-macos-catalina-10-15-beta1-usb3-0.html)
 
+特别感谢这位老哥的文章帮我解决了usb3.0不能使用的问题
 
 
 
