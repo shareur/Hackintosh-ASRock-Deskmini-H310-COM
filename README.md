@@ -33,8 +33,17 @@ MacOS 10.15.0 Catalina
 ## 使用方法
 
 1. 按照黑果小兵的介绍一步步安装
+
 2. 安装完成，使用别的电脑挂载硬盘efi分区
+
 3. 拷贝替换同名目录下文件即可
+
+   ###  BIOS 设置
+
+   1. USB Configuration  XHCI Hand-off :  `Enabled`
+   2. Onboard HD Audio : ` Enabled`
+   3. Security boot : `Disabled`
+   4. others :` Default`
 
 
 
