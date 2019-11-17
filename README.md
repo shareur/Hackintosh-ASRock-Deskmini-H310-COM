@@ -18,7 +18,7 @@ MacOS 10.15.0 Catalina 可以使用官方推送更新为 10.15.1
 
 升级后截图
 
-![10.15.1](https://github.com/creatorlewis/Hackintosh-ASRock-Deskmini-H310-COM/blob/master/Resources/10.15.1.jpg)
+![10.15.1](https://github.com/creatorlewis/Hackintosh-ASRock-Deskmini-H310-COM/blob/master/Resources/10.15.1.png)
 
 
 
