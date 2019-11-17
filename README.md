@@ -4,9 +4,27 @@
 
 ## 适用系统版本
 
-MacOS 10.15.0 Catalina
+MacOS 10.15.0 Catalina 可以使用官方推送更新为 10.15.1
+
+## 重要发现
+
+今天(1911系统完成了官方推送的 10.15.1 的更新
+
+官方升级成功,由 10.15 升级 为 10.15.1
+
+升级前截图
+
+![10.15.0](https://github.com/creatorlewis/Hackintosh-ASRock-Deskmini-H310-COM/blob/master/Resources/10.15.0.jpg)
+
+升级后截图
+
+![10.15.1](/Resourse/10.15.1.png)
+
+
 
 ## 检查项
+
+- [x] 官方推送升级正常,完成 10.15.0 升级为 10.15.1
 
 - [x] apple store/TV 账号使用完美
 - [x] 睡眠完美
@@ -38,7 +56,7 @@ MacOS 10.15.0 Catalina
 
 3. 拷贝替换同名目录下文件即可
 
-   ###  BIOS 设置
+   ###  安装前BIOS 设置
 
    1. USB Configuration  XHCI Hand-off :  `Enabled`
    2. Onboard HD Audio : ` Enabled`
